@@ -12,7 +12,7 @@ Chào các bạn, hôm nay mình xin giới thiệu đồ án môn học của m
 
 
 
-# Làm thế nào để lấy 9 điểm:  
+# Làm thế nào để lấy 9 điểm ? 
 Điều kiện đủ:    
 + Đầy đủ các chức năng mà cô yêu cầu
 + Học bài kĩ càng, mình trả lời được câu hỏi của cô về thuật toán trong bài làm  
