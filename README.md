@@ -1,6 +1,6 @@
 # graphics-and-algorithms
 computer graphics and algorithms software  
-# Hành trình dành 9 điểm đồ án môn học
+# Lần đầu làm đồ án môn học đã được 9 điểm
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
