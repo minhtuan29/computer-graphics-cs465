@@ -4,7 +4,7 @@ computer graphics and algorithms software
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
-Chào các bạn, hôm nay mình xin giói thiệu đồ án môn học của mình. Mình xây dựng nó bằng DevC với thư viện graphic.h. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
+Chào các bạn, hôm nay mình xin giới thiệu đồ án môn học của mình. Mình xây dựng nó bằng DevC với thư viện graphic.h. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
 - Máy tính hiểu một hình phức tạp được tạo thành từ những hình cơ bản
 - Hiển thị điểm ảnh các hình cơ bản với pixel, mỗi pixel có tọa độ x y xác định
 - Các thuật toán hình học trong máy tính như: phép xoay, phép dời (phép tịnh tiến), phép chiếu, phép đối xứng, phép thu phóng ...
