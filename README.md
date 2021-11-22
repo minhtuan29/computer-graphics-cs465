@@ -4,13 +4,13 @@ computer graphics and algorithms software
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
-Chào các bạn, hôm nay mình sẽ chia sẽ kinh nghiệm quá trình làm đồ án. Đây là đồ án đầu tiên của mình. Khi biết bài mình được 9 điểm mình bất ngờ lắm. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính hoạt động. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
+Chào các bạn, hôm nay mình xin giói thiệu đồ án môn học của mình. Mình làm phần mềm này bằng DevC với thư viện đồ họa graphic.h. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính hoạt động. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
 - Máy tính hiểu một hình phức tạp được tạo thành từ những hình cơ bản
 - Hiển thị các điểm ảnh các hình cơ bản với pixel, mỗi pixel có tọa độ x y xác định
 - Các thuật toán hình học trong máy tính như: phép xoay, phép dời (phép tịnh tiến), phép chiếu, phép đối xứng, phép thu phóng...
 - Máy tính vẽ một đường thẳng bằng các thuật toán  
 
-Mình làm phần mềm này bằng DevC với thư viện đồ họa graphic.h
+
 
 # Làm thế nào để lấy 9 điểm:  
 Điều kiện đủ:    
@@ -23,7 +23,7 @@ Mình làm phần mềm này bằng DevC với thư viện đồ họa graphic.h
 + Mình viết bằng C++ mà còn dùng tools cùi mà xây được chương trình như này (mấy bạn khác code bằng Java, JavaScript và C# . Viết ít hơn và framework hỗ trợ mạnh)  
 + Có code theo kiểu OOP, hiểu cách code OOP là như nào. Ngoài ra mình còn vận dụng được tính thừa kế và tính trừu tượng  
    
-Để hiểu cách code OOP cần trải qua thời gian làm các đồ án mới ngộ ra, không phải học xong từ khóa class là viết OOP được. Hai năm đầu học ở trường, sinh viên không hướng dẫn làm phầm mềm gì mà chỉ giải mấy bài tập như trên leetcode. Tuy nhiên lần đầu làm đồ án mình đã code được OOP do mình trước đó đã tự vọc vạch tự làm những phần mềm cho riêng mình nên cô rất thích  
+Để hiểu cách code OOP cần trải qua thời gian làm các đồ án mới ngộ ra, không phải học xong từ khóa class là viết OOP được. Hai năm đầu học ở trường, sinh viên không làm phần mềm gì mà chỉ giải mấy bài tập như trên leetcode. Tuy nhiên, lần đầu làm đồ án mình đã code được OOP do mình trước đó đã tự vọc vạch tự làm những phần mềm cho riêng mình nên cô rất thích  
 
 Bài học rút ra được:  
 Đồ án của mình làm đơn giản, ít chức năng. Mình tưởng chắc qua môn thôi nhưng cô lại có lời khen đẹp. Đẹp kiểu đơn giản dễ nhìn. Đấy, chúng ta chỉ cần làm đơn giản và đầy đủ là điểm cao rồi đấy.  
