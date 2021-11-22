@@ -23,7 +23,7 @@ Chào các bạn, hôm nay mình xin giói thiệu đồ án môn học của m�
 + Mình viết bằng C++ mà còn dùng tools cùi mà xây được chương trình như này (mấy bạn khác code bằng Java, JavaScript và C# . Viết ít hơn và framework hỗ trợ mạnh)  
 + Có code theo kiểu OOP, hiểu cách code OOP là như nào. Ngoài ra mình còn vận dụng được tính thừa kế và tính trừu tượng  
    
-Để hiểu cách code OOP cần trải qua thời gian làm các đồ án mới ngộ ra, không phải học xong từ khóa class là viết OOP được. Hai năm đầu học ở trường, sinh viên không làm phần mềm gì mà chỉ giải mấy bài tập như trên leetcode và quản lý sinh viên. Tuy nhiên, lần đầu làm đồ án mình đã code được OOP do mình trước đó đã tự vọc vạch tự làm những phần mềm cho riêng mình nên cô rất thích  
+Để hiểu cách code OOP cần trải qua thời gian làm các đồ án mới ngộ ra, không phải học xong từ khóa class là viết OOP được. Hai năm đầu học ở trường, sinh viên không làm phần mềm gì mà chỉ giải mấy bài tập như trên leetcode và quản lý sinh viên. Tuy nhiên, lần đầu làm đồ án mình đã code được OOP. Do mình trước đó đã tự vọc vạch tự làm những phần mềm cho riêng mình, vậy nên cô rất thích  
 
 Bài học rút ra được:  
 Đồ án của mình làm đơn giản, ít chức năng. Mình tưởng chắc qua môn thôi nhưng cô lại có lời khen đẹp. Đẹp kiểu đơn giản dễ nhìn. Đấy, chúng ta chỉ cần làm đơn giản và đầy đủ là điểm cao rồi đấy.  
