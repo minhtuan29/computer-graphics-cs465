@@ -4,7 +4,7 @@ computer graphics and algorithms software
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
-Chào các bạn, hôm nay mình sẽ chia sẽ kinh nghiệm quá trình làm đồ án. Đây là đồ án đầu tiên của mình, mình rất bất ngờ khi biết bài mình được 9 điểm. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính hoạt động. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
+Chào các bạn, hôm nay mình sẽ chia sẽ kinh nghiệm quá trình làm đồ án. Đây là đồ án đầu tiên của mình. Khi biết bài mình được 9 điểm mình rất bất ngờ. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính hoạt động. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
 - Máy tính hiểu một hình phức tạp được tạo thành từ những hình cơ bản
 - Hiển thị các điểm ảnh các hình cơ bản với pixel, mỗi pixel có tọa độ x y xác định
 - Các thuật toán hình học trong máy tính như: phép xoay, phép dời (phép tịnh tiến), phép chiếu, phép đối xứng, phép thu phóng...
