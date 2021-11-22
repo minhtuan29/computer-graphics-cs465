@@ -20,7 +20,7 @@ Chào các bạn, hôm nay mình xin giới thiệu đồ án môn học của m
 Điều kiện cộng điểm cao:  
 + Mình không hardcode, khi cô giáo có yêu cầu bất ngờ là thay đổi thông số, thì chương trình của mình vẫn chạy ngon ( thật ra một số chỗ mình lười, có hardcode. Hên ^ ^ )
 + Chương trình của mình chạy tốc độ nhanh, không giật lag
-+ Mình viết bằng C++ còn dùng tools cùi, mà xây được chương trình như này (mấy bạn khác code bằng Java, JavaScript và C# . Viết ít hơn và framework hỗ trợ mạnh)  
++ Mình viết bằng C++ còn dùng tools cùi, mà xây được chương trình như này 
 + Có code theo kiểu OOP, hiểu cách code OOP là như nào. Ngoài ra mình còn vận dụng được tính thừa kế và tính trừu tượng  
    
 Để hiểu cách code OOP cần trải qua thời gian làm các đồ án mới ngộ ra, không phải học xong từ khóa class là viết OOP được. Trong hai năm đầu, sinh viên không làm phần mềm gì mà chỉ giải mấy bài tập như trên leetcode và quản lý sinh viên. Tuy nhiên, lần đầu làm đồ án mình đã code được OOP. Do là mình trước đó đã tự vọc vạch làm những phần mềm riêng, vậy nên cô rất thích  
