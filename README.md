@@ -27,7 +27,7 @@ Chào các bạn, hôm nay mình xin giới thiệu đồ án môn học của m
 
 Đồ án của mình làm đơn giản, ít chức năng. Mình tưởng chắc qua môn thôi nhưng cô lại có lời khen đẹp. Đẹp kiểu đơn giản dễ nhìn. Bài học mình rút ra là chúng ta chỉ cần làm đơn giản và đầy đủ là điểm cao rồi đấy ^ ^ .
 
-Nếu bạn thấy bài viết bổ ích thì nhớ cho mình một ngôi sao yêu thương nhé <3 
+Nếu bạn thấy bài viết bổ ích thì nhớ cho mình một ngôi sao nhé <3 
   
 ![43bc5611fe986112b485916b2f471a6a6c3e2091_hq](https://user-images.githubusercontent.com/86332370/142888040-d9fee677-1a20-4f2c-817d-8baa119ae40d.gif)
 
