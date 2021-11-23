@@ -1,21 +1,20 @@
 # graphics-and-algorithms
 computer graphics and algorithms software  
-# Lần đầu làm đồ án môn học đã được 9 điểm
+# The first time I did a subject project, I got 9 mark
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
-Chào các bạn, hôm nay mình xin giới thiệu đồ án môn học đầu tiên của mình. Mình xây dựng nó bằng DevC với thư viện graphic.h. Phần mềm này mô phỏng cách một chương trình đồ họa máy tính. Thông qua đó, sinh viên hiểu biết cách các chương trình đồ họa máy tính, thị giác máy tính hoạt động như nào. Nó rất hữu ích cho những bạn theo các chuyên ngành như AI và ML. Những kiến thức chính bao gồm:  
-- Máy tính hiểu một hình phức tạp được tạo thành từ những hình cơ bản
-- Hiển thị điểm ảnh các hình cơ bản với pixel, mỗi pixel có tọa độ x y xác định
-- Các thuật toán hình học trong máy tính như: phép xoay, phép dời (phép tịnh tiến), phép chiếu, phép đối xứng, phép thu phóng ...
-- Máy tính vẽ một đường thẳng bằng các thuật toán  
+Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of you who are majoring in AI and ML. Key knowledges include:  
+- Computers perceives that a complex shape made up of basic shapes
+- Showing the graphic shape with pixels, each pixel has a specified x y coordinate
+- The basic computer geometry algorithms such as rotation, translation, projection, symmetry, scale
+- Computers draw a line using algorithms
 
 
-
-## Mình dành được 9 điểm như thế nào ? 
-Điều kiện đủ:    
-+ Đầy đủ các chức năng mà cô yêu cầu
-+ Học bài kĩ càng, mình trả lời được câu hỏi của cô về thuật toán trong bài làm  
+## How do I get 9 mark ?  
+Necessary conditions:    
++ I do all the features requested by the teacher
++ Studying the lesson carefully, I was able to answer teacher's questions about the algorithm in the project  
 
 Điều kiện cộng điểm cao:  
 + Mình không hardcode, khi cô giáo có yêu cầu bất ngờ là thay đổi thông số, thì chương trình của mình vẫn chạy ngon ( thật ra một số chỗ mình lười, có hardcode. Hên ^ ^ )
