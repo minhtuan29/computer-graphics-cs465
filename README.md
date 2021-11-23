@@ -22,7 +22,7 @@ Advantages for me to get high mark :
 + Not only did I choose to write in C++, but I also used a tool with little support, but I built a good program.
 + Having code in OOP style, understand how OOP code is. In addition, I can also apply inheritance and abstraction 
    
-To understand how OOP code, it take along time doing projects to achieve. It is not possible to finish learning the class keyword and then code in OOP style. In the first two student years, we didn't do any software, we only solved some exercises such as on leetcode and student management. However, the first time I did a subject project, I can code OOP style. Because I used to make my own software and project before, so the teacher very like it
+To understand how OOP code, it take along time doing many projects to achieve. It is not possible to finish learning the class keyword and then code in OOP style. In the first two student years, we didn't do any software, we only solved some exercises such as on leetcode and student management. However, the first time I did a subject project, I can code OOP style. Because I used to make my own software and project before, so the teacher very like it
 
 My project is simple, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I learned is that we just need to do it simply and fully to get a good score ^ ^ .
 
