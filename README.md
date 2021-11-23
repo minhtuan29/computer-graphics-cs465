@@ -14,7 +14,7 @@ Key knowledges include:
 ### How did I get 9 mark ?  
 Necessary conditions:    
 + I do all the features requested by the teacher
-+ Studying the lesson carefully, I was able to answer teacher's questions about the algorithm in the project  
++ Studying the lesson carefully, I can answer teacher's questions about the algorithm in the project  
 
 Advantages for me to get high mark :  
 + I do not hardcode, when the teacher has a sudden request to change the input parameters, my program still do good (to be honest, I kinda lazy, it's have some hardcode. Lucky to me ^ ^ )
