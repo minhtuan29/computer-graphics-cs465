@@ -11,7 +11,7 @@ Hello everyone, today I would like to introduce my first subject project. I buil
 - Computers draw a line using algorithms
 
 
-## How do I get 9 mark ?  
+## How did I get 9 mark ?  
 Necessary conditions:    
 + I do all the features requested by the teacher
 + Studying the lesson carefully, I was able to answer teacher's questions about the algorithm in the project  
