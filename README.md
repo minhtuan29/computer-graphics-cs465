@@ -24,7 +24,7 @@ Advantages for me to get high mark :
    
 To understand how OOP code, it take along time doing many projects to achieve. It is not possible to finish learning the class keyword and then be able to code in OOP style. In the first two school years, we didn't do any software or project, we only solved some exercises such as on leetcode and student management. However, the first time I did a subject project, I can code OOP style. Because I used to make my own software and projects before, so the teacher very like it
 
-My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I learned is that we just need to do it simply and fully to get nice score ^ ^ .
+My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score ^ ^ .
 
 If you see the article useful, give me a star to motivate me keep going <3  
   
