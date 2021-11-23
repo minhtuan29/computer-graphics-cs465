@@ -1,6 +1,6 @@
 # graphics-and-algorithms
 computer graphics and algorithms software  
-# The first time I did a subject project, I got 9 mark
+# The first time I did subject project, I got 9 mark
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
