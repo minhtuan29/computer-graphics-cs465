@@ -19,7 +19,7 @@ Necessary conditions:
 Advantages for me to get high mark :  
 + I do not hardcode, when the teacher has a sudden request to change the input parameters, my program still do good (to be honest, I kinda lazy, it's have some hardcode. Lucky to me ^ ^ )
 + High performance of my program, no lag
-+ Not only did I choose to write in C++, but I also used a tool with little support, but I built a good program.
++ Not only did I choose to write in C++, but I also used a tool with no support, but I built a good program.
 + Having code in OOP style, understand how OOP code is. In addition, I apply inheritance and abstraction 
    
 To understand how OOP code, it take along time doing many projects to achieve. It is not possible to finish learning the class keyword and then be able to code in OOP style. In the first two school years, we didn't do any software or project, we only solved some exercises such as on leetcode and student management. However, the first time I did a subject project, I can code OOP style. Because I used to make my own software and projects before, so the teacher very like it
