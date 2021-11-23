@@ -1,5 +1,5 @@
 a computer graphics and algorithms software  
-# The first time I did subject project, I got 9 mark 
+**The first time I did subject project, I got 9 mark**
 ![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)  
  
 Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of student who are majoring in AI and Machine Learning, for example like this below in advance:    
