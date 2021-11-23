@@ -12,7 +12,7 @@ Chào các bạn, hôm nay mình xin giới thiệu đồ án môn học đầu 
 
 
 
-## Làm sao mình được 9 điểm ? 
+## Mình dành được 9 điểm như nào ? 
 Điều kiện đủ:    
 + Đầy đủ các chức năng mà cô yêu cầu
 + Học bài kĩ càng, mình trả lời được câu hỏi của cô về thuật toán trong bài làm  
