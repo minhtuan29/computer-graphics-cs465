@@ -4,7 +4,7 @@ computer graphics and algorithms software
 
 https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
   
-Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of you who are majoring in AI and ML. Key knowledges include:  
+Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of student who are majoring in AI and ML. Key knowledges include:  
 - Computers perceives that a complex shape made up of basic shapes
 - Showing the graphic shape with pixels, each pixel has a specified x y coordinate
 - The basic computer geometry algorithms such as rotation, translation, projection, symmetry, scale
