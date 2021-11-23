@@ -17,7 +17,7 @@ Necessary conditions:
 + Studying the lesson carefully, I was able to answer teacher's questions about the algorithm in the project  
 
 Advantages for me to get high mark :  
-+ I do not hardcode, when the teacher has a sudden request to change the parameters, my program still works fine (to be honest, I kinda lazy, it's have some hardcode. Lucky to me ^ ^ )
++ I do not hardcode, when the teacher has a sudden request to change the input parameters, my program still do good (to be honest, I kinda lazy, it's have some hardcode. Lucky to me ^ ^ )
 + High performance of my program, no lag
 + Not only did I choose to write in C++, but I also used a tool with little support, but I built a good program.
 + Having code in OOP style, understand how OOP code is. In addition, I apply inheritance and abstraction 
