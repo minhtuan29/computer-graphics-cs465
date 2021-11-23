@@ -16,17 +16,17 @@ Necessary conditions:
 + I do all the features requested by the teacher
 + Studying the lesson carefully, I was able to answer teacher's questions about the algorithm in the project  
 
-Điều kiện cộng điểm cao:  
-+ Mình không hardcode, khi cô giáo có yêu cầu bất ngờ là thay đổi thông số, thì chương trình của mình vẫn chạy ngon ( thật ra một số chỗ mình lười, có hardcode. Hên ^ ^ )
-+ Chương trình của mình chạy tốc độ nhanh, không giật lag
-+ Chọn viết bằng C++ mà còn tool cùi ít hỗ trợ nhưng mình đã xây dựng ra được chương trình như này
-+ Có code theo kiểu OOP, hiểu cách code OOP là như nào. Ngoài ra mình còn vận dụng được tính thừa kế và tính trừu tượng  
+Advantages for me to get high mark :  
++ I do not hardcode, when the teacher has a sudden request to change the parameters, my program still works fine (to be honest, I kinda lazy, it's have some hardcode. Lucky to me ^ ^ )
++ High performance of my program, no lag
++ Not only did I choose to write in C++, but I also used a tool with little support, but I built a good program.
++ Having code in OOP style, understand how OOP code is. In addition, I can also apply inheritance and abstraction 
    
-Để hiểu cách code OOP cần trải qua thời gian làm các đồ án mới ngộ ra, không phải học xong từ khóa class là viết OOP được. Trong hai năm đầu, sinh viên không làm phần mềm gì mà chỉ giải mấy bài tập như trên leetcode và quản lý sinh viên. Tuy nhiên, lần đầu làm đồ án mình đã code được OOP. Do là mình trước đó đã tự vọc vạch làm những phần mềm riêng, vậy nên cô rất thích  
+To understand how OOP code, it take along time doing projects to achieve. It is not possible to finish learning the class keyword and then code in OOP style. In the first two student years, we didn't do any software, we only solved some exercises such as on leetcode and student management. However, the first time I did a subject project, I can code OOP style. Because I used to make my own software and project before, so the teacher very like it
 
-Đồ án của mình làm đơn giản, ít chức năng. Mình tưởng chắc qua môn thôi nhưng cô lại có lời khen đẹp. Đẹp kiểu đơn giản dễ nhìn. Bài học mình rút ra là chúng ta chỉ cần làm đơn giản và đầy đủ là điểm cao rồi đấy ^ ^ .
+My project is simple, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I learned is that we just need to do it simply and fully to get a good score ^ ^ .
 
-Nếu bạn thấy bài viết bổ ích thì hãy để lại mình một ngôi sao ủng hộ mình làm tiếp nhé <3 
+If you find the article useful, give me a star to motivates me to keep going <3
 
 ![qq](https://user-images.githubusercontent.com/86332370/142961488-7f0ae3f2-3f8c-4527-9f71-3a237a9b065e.PNG)
 
