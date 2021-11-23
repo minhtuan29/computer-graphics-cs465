@@ -1,5 +1,4 @@
-# graphics-and-algorithms
-computer graphics and algorithms software  
+a computer graphics and algorithms software  
 # The first time I did subject project, I got 9 mark
 ![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)  
   
