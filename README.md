@@ -1,15 +1,9 @@
 # graphics-and-algorithms
 computer graphics and algorithms software  
 # The first time I did subject project, I got 9 mark
-
-https://user-images.githubusercontent.com/86332370/142679804-ae5bab38-7edf-4df8-9110-395e256bbd05.mp4  
-  
+![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)
 Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of student who are majoring in AI and Machine Learning.  
-
-![u](https://user-images.githubusercontent.com/86332370/142972110-71c6b79c-453b-4847-987e-d92f2dfb62ac.gif)
-
-
-
+![bd](https://user-images.githubusercontent.com/86332370/142972309-d543dd27-48cd-4191-a7b9-3b941675bb76.gif)  
 Key knowledges include:  
 - Computers perceives that a complex shape made up of basic shapes
 - Showing the graphic shape with pixels, each pixel has a specified x y coordinate
@@ -32,11 +26,11 @@ To understand how OOP code, it take along time doing many projects to achieve. I
 
 My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I learned is that we just need to do it simply and fully to get nice score ^ ^ .
 
-If you see the article useful, give me a star to motivate me keep going <3
-
+If you see the article useful, give me a star to motivate me keep going <3  
+  
 ![qq](https://user-images.githubusercontent.com/86332370/142961488-7f0ae3f2-3f8c-4527-9f71-3a237a9b065e.PNG)
 
-
+  
 ![43bc5611fe986112b485916b2f471a6a6c3e2091_hq](https://user-images.githubusercontent.com/86332370/142888040-d9fee677-1a20-4f2c-817d-8baa119ae40d.gif)
 
 
