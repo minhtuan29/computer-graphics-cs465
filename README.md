@@ -26,7 +26,7 @@ To understand how OOP code, it take along time doing many projects to achieve. I
 
 My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I learned is that we just need to do it simply and fully to get a good score ^ ^ .
 
-If you find the article useful, give me a star to motivates me keep going <3
+If you find the article useful, give me a star to motivate me keep going <3
 
 ![qq](https://user-images.githubusercontent.com/86332370/142961488-7f0ae3f2-3f8c-4527-9f71-3a237a9b065e.PNG)
 
