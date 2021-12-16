@@ -28,7 +28,7 @@ My project is simply, few features. I thought I barely passed the subject, but m
 If you see the article useful, give me a star to motivate me keep going <3  
 
 # License
-MIT License TuanHoang Copyright (c)  
+MIT License TuanHoang Copyright (c) 2021  
 
   
 ![43bc5611fe986112b485916b2f471a6a6c3e2091_hq](https://user-images.githubusercontent.com/86332370/142888040-d9fee677-1a20-4f2c-817d-8baa119ae40d.gif)
