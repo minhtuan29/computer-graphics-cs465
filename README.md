@@ -4,7 +4,6 @@
 ![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)  
  
 Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of student who are majoring in AI and Machine Learning. For example like this below in advance:  
-reference: https://www.youtube.com/watch?v=n4t_-NjY_Sg&t=506s  
 ![bd](https://user-images.githubusercontent.com/86332370/142972309-d543dd27-48cd-4191-a7b9-3b941675bb76.gif)  
 Key knowledges include:  
 - Computers perceives that a complex shape made up of basic shapes
@@ -30,7 +29,9 @@ If you see the article useful, give me a star to motivate me keep going <3
 
 # License
 MIT License TuanHoang Copyright (c) 2021  
-
+# Reference
+The Projects That Got Me Into Google (tips for software engineering projects) :  
+https://www.youtube.com/watch?v=n4t_-NjY_Sg&t=506s 
   
 ![43bc5611fe986112b485916b2f471a6a6c3e2091_hq](https://user-images.githubusercontent.com/86332370/142888040-d9fee677-1a20-4f2c-817d-8baa119ae40d.gif)
 
