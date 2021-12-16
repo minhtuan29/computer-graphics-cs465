@@ -26,9 +26,6 @@ My project is simply, few features. I thought I barely passed the subject, but m
 
 If you see the article useful, give me a star to motivate me keep going <3  
   
-![qq](https://user-images.githubusercontent.com/86332370/142961488-7f0ae3f2-3f8c-4527-9f71-3a237a9b065e.PNG)
-
-  
 ![43bc5611fe986112b485916b2f471a6a6c3e2091_hq](https://user-images.githubusercontent.com/86332370/142888040-d9fee677-1a20-4f2c-817d-8baa119ae40d.gif)
 
 
