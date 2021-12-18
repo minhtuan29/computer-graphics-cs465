@@ -28,7 +28,7 @@ My project is simply, few features. I thought I barely passed the subject, but m
 If you see the article useful, give me a star to motivate me keep going <3  
 
 # License
-MIT License TuanHoang Copyright (c) 2021  
+MIT License TuanHoang Copyright (©) 2021  
 # Reference
 The Projects That Got Me Into Google (tips for software engineering projects) :  
 https://www.youtube.com/watch?v=n4t_-NjY_Sg&t=506s 
