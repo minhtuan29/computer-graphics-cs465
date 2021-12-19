@@ -23,7 +23,7 @@ Advantages for me to get high mark :
 + Not only did I choose to write in C++, but I also used a tool with no support, but I built a good program.
 + Having code in OOP style, understand how OOP code is. In addition, I apply inheritance and abstraction 
 
-My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score ^ ^ .
+My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score.
 
 If you see the article useful, give me a star to motivate me keep going <3  
 
