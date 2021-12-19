@@ -29,9 +29,6 @@ If you see the article useful, give me a star to motivate me keep going <3
 
 # License
 MIT License TuanHoang Copyright (©) 2021  
-# Reference
-The Projects That Got Me Into Google (tips for software engineering projects) :  
-https://www.youtube.com/watch?v=n4t_-NjY_Sg&t=506s 
   
 # Have a nice day
 ![43bc5611fe986112b485916b2f471a6a6c3e2091_hq](https://user-images.githubusercontent.com/86332370/142888040-d9fee677-1a20-4f2c-817d-8baa119ae40d.gif)
