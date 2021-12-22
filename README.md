@@ -20,7 +20,7 @@ Key knowledges include:
 
 My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score.
 
-If you see the the knowledges useful, give me a star to motivate me keep going  
+If you see the the knowledges useful, give me a star to motivate me keep going. Thanks you for reading    
 
 # License
 MIT License TuanHoang Copyright (©) 2021  
