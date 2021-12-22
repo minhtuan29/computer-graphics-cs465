@@ -15,7 +15,7 @@ Key knowledges include:
 + I do not hardcode. When the teacher has a sudden request to change the input parameters, my program still do good.  
 *To be honest, I kinda lazy. It has some hardcode and lucky to me*    
 + High performance of my program, no lag
-+ Not only did I choose to write in C++, but I also used a tool with no support, but I built a good program.
++ Not only did I choose to write in C++,  I used a tool with no support, but I built a good program.
 + Having code in OOP style. In addition, I apply inheritance and abstraction 
 
 My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score.
