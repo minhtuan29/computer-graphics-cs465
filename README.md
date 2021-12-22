@@ -1,6 +1,5 @@
 # A computer graphics and algorithms software  
 
-## The first time I did subject project, I got 9 mark
 ![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)  
  
 Hello everyone, today I would like to introduce my first subject project. I built it using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of student who are majoring in AI and Machine Learning. For example like this below in advance:  
@@ -12,13 +11,14 @@ Key knowledges include:
 - Computers draw a line using algorithms
 
 
-### How did I get 9 mark ?  
+### I got 9 mark with it. How did i do that ?  
 Necessary conditions:    
 + I do all the features requested by the teacher
 + Studying the lesson carefully, I can answer teacher's questions about the algorithm in the project  
 
 Advantages for me to get high mark :  
-+ I do not hardcode, when the teacher has a sudden request to change the input parameters, my program still do good (to be honest, I kinda lazy, it's have some hardcode. Lucky to me  
++ I do not hardcode. When the teacher has a sudden request to change the input parameters, my program still do good 
+ (to be honest, I kinda lazy, it's have some hardcode. Lucky to me)  
 + High performance of my program, no lag
 + Not only did I choose to write in C++, but I also used a tool with no support, but I built a good program.
 + Having code in OOP style, understand how OOP code is. In addition, I apply inheritance and abstraction 
