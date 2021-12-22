@@ -29,5 +29,3 @@ If you see the article useful, give me a star to motivate me keep going <3
 
 # License
 MIT License TuanHoang Copyright (©) 2021  
-  
-# Have a nice day
