@@ -11,17 +11,12 @@ Key knowledges include:
 - Computers draw a line using algorithms
 
 
-### I got 9 mark with it. How did i do that ?  
-Necessary conditions:    
-+ I do all the features requested by the teacher
-+ Studying the lesson carefully, I can answer teacher's questions about the algorithm in the project  
-
-Advantages for me to get high mark :  
-+ I do not hardcode. When the teacher has a sudden request to change the input parameters, my program still do good 
+### I got 9 mark with this project. How did i do that ?  
++ I do not hardcode. When the teacher has a sudden request to change the input parameters, my program still do good  
  (to be honest, I kinda lazy, it's have some hardcode. Lucky to me)  
 + High performance of my program, no lag
 + Not only did I choose to write in C++, but I also used a tool with no support, but I built a good program.
-+ Having code in OOP style, understand how OOP code is. In addition, I apply inheritance and abstraction 
++ Having code in OOP style. In addition, I apply inheritance and abstraction 
 
 My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score.
 
