@@ -23,4 +23,4 @@ My project is simply, few features. I thought I barely passed the subject, but m
 If you see the the knowledges useful, give me a star to motivate me keep going. Thanks you for reading    
 
 # License
-MIT License TuanHoang Copyright (©) 2021  
+[MIT License](https://github.com/minhtuan29/graphics-and-algorithms/blob/master/LICENSE) TuanHoang Copyright (©) 2021  
