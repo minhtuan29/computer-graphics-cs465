@@ -22,3 +22,6 @@ My project is simply, few features. I thought I barely passed the subject, but m
 
 # License
 [MIT License](https://github.com/minhtuan29/graphics-and-algorithms/blob/master/LICENSE) TuanHoang Copyright (©) 2021  
+
+# Other name
+Ky Thuat Do Hoa - Do Hoa May Tinh - Do Hoa Va Thuat Toan - Do Hoa Vi Tinh
