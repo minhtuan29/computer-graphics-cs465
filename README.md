@@ -10,18 +10,5 @@ Key knowledges include:
 - The basic computer geometry algorithms such as rotation, translation, projection, symmetry, scale
 - Computers draw a line using **algorithms**
 
-
-### I got 9 mark with this project. How did i do that ?  
-+ I do not hardcode. When the teacher has a sudden request to change the input parameters, my program still do good.  
-*To be honest, I kinda lazy. It has some hardcode and lucky to me*    
-+ High performance of my program, no lag
-+ Not only did I choose to write in C++,  I used a tool with no support, but I built a good program.
-+ Having code in OOP style. In addition, I apply inheritance and abstraction 
-
-My project is simply, few features. I thought I barely passed the subject, but my teacher gave me a good compliment. Beautiful, simple, easy to see and easy to use. The lesson I have learned is that we just need to do it simply and fully to get nice score.
-
-# License
-[MIT License](https://github.com/minhtuan29/graphics-and-algorithms/blob/master/LICENSE) TuanHoang Copyright (©) 2021  
-
 # Other name
 Ky Thuat Do Hoa - Do Hoa May Tinh - Do Hoa Va Thuat Toan - Do Hoa Vi Tinh
