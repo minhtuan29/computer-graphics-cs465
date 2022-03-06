@@ -1,4 +1,4 @@
-# A computer graphics and algorithms software  
+# computer graphics - CS465
 
 ![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)  
 
