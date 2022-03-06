@@ -9,7 +9,7 @@ This is my first time doing a project and I got 9 mark.  I've finished it for 3 
 Key knowledges include:  
 - Computers perceives that a complex shape made up of basic shapes
 - Showing the graphic shape with pixels, each pixel has a specified x y coordinate
-- The basic computer geometry algorithms such as rotation, translation, projection, symmetry, scale
+- The basic computer geometry algorithms such as : rotation, scale, translation, projection, symmetry
 - Computers draw a line using **algorithms**
 - use matrix to represent 2D shape to 3D
 
