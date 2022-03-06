@@ -9,6 +9,7 @@ Key knowledges include:
 - Showing the graphic shape with pixels, each pixel has a specified x y coordinate
 - The basic computer geometry algorithms such as rotation, translation, projection, symmetry, scale
 - Computers draw a line using **algorithms**
+- use matrix to represent 2D shape to 3D
 
 # Other name
 Ky Thuat Do Hoa - Do Hoa May Tinh - Do Hoa Va Thuat Toan - Do Hoa Vi Tinh
