@@ -1,5 +1,5 @@
 # computer graphics - CS465
-
+This is my first time doing a project
 ![y](https://user-images.githubusercontent.com/86332370/142972501-b48d4257-53a3-42aa-b16a-40c2f6289ab3.gif)  
 
 This is my first time doing a project and I got 9 mark.  I've finished it for 3 weeks of continuous work.  Due to inexperience, I destroyed it and rebuilt it twice.  After that, I don't rush to work, instead I write out what stuffs I will do on paper and how to implement them.  This helps me avoid risks when working.About it, it's built using DevC with graphic.h library. This software simulates how a computer graphics program works. Through this, students understand how computer graphics and computer vision programs work. It is very useful for those of student who are majoring in **AI and Machine Learning**. For example like this following in advance:  
