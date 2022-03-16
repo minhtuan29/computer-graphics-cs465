@@ -14,6 +14,6 @@ Key knowledges include:
 - use matrix to represent 2D shape to 3D
 
 # Other name
-Ky Thuat Do Hoa - Do Hoa May Tinh - Do Hoa Va Thuat Toan
+Ky Thuat Do Hoa - Do Hoa May Tinh
 # Author
 HOANG MINH TUAN - N18DCPT061 PTIT HCM SOFTWARE ENGINEER 
