@@ -16,4 +16,4 @@ Key knowledges include:
 # Other name
 Ky Thuat Do Hoa - Do Hoa May Tinh
 # Author
-HOANG MINH TUAN - N18DCPT061 PTIT HCM SOFTWARE ENGINEER 
+HOANG MINH TUAN
