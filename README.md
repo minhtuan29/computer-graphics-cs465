@@ -18,3 +18,5 @@ Key knowledges include:
 Ky Thuat Do Hoa - Do Hoa May Tinh
 # Author
 HOANG MINH TUAN
+# Updating
+using lambda to custom the way to draw, how to get lambda in C++98
