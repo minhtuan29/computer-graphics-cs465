@@ -31,8 +31,8 @@ using lambda to custom the way to draw the line (Polymorphism), how to get lambd
 	    if (y1 < y2)
 	      for (i = y1; i <= y2; i++) {
 	        Point p(x1, i);
-	        count++; if( predicateDraw(count) )
-	        point_list.push_back(p);
+	        count++; 
+		if( predicateDraw(count) )  point_list.push_back(p);
 	  ....
 	  ....
 	
