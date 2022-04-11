@@ -50,4 +50,5 @@ int main()
 	shape.add_line_custom(x1, y1, x2, y2, predicate_net_dut);
 }
 ```
-![Capture](https://user-images.githubusercontent.com/86332370/162677682-a71f1c27-b879-4882-ad64-b4cc284d2b74.PNG)
+![Capture](https://user-images.githubusercontent.com/86332370/162718042-f5cabc68-ea23-471f-838f-d8922f0189db.PNG)
+
