@@ -24,7 +24,7 @@ using lambda to custom the way to draw the line (Polymorphism), how to get lambd
 	
 	void lineDDA_custom(int x1, int y1, int x2, int y2, bool(*predicateDraw)(int count)  ) { 
   	// Predicate in Java8 or lambda expression in all languages
-	// means : the way to draw in condition, depend on count --- I am using C++98 having not lambda
+	// means : the way to draw in condition, depend on count --- I am using C++98 , there is not lambda
 	int count = 1;
 	  if (x1 == x2) {
 	    int i;
