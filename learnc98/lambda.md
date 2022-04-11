@@ -19,9 +19,8 @@
 ```C++
 
 bool  predicate_net_dut(int count){
- 	return count %4 == 0 || (count+1)%4 == 0;
+     return count %4 == 0 || (count+1)%4 == 0;
 }
-
 
 int main()
 {		
