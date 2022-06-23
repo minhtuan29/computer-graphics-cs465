@@ -55,7 +55,8 @@ int main()
 ![Capture](https://user-images.githubusercontent.com/86332370/162718042-f5cabc68-ea23-471f-838f-d8922f0189db.PNG)  
 
 Version 2.0 - June 2022 update :  
-![bailam](https://user-images.githubusercontent.com/86332370/175193562-342e91c6-a90b-42da-afdc-0323eafa04db.gif)  
 Github : https://github.com/River-Tea/ComputerGraphics  
+![bailam](https://user-images.githubusercontent.com/86332370/175193562-342e91c6-a90b-42da-afdc-0323eafa04db.gif)  
+  
 
 
